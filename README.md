@@ -1,2 +1,2 @@
-# resume-website
-https://yagnikvamja.github.io/resume-website/
+# https://yagnikvamja.github.io/resume-website/
+
